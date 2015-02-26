@@ -1,4 +1,4 @@
-package myTest;
+package utils;
 
 public class StoryEvent {
 //	
@@ -8,4 +8,5 @@ public class StoryEvent {
 	public int timeOfPublication;
 	public int score;
 	public int heightInPixel;
+	public int indexNumber;
 }

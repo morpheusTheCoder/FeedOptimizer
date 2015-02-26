@@ -1,6 +1,6 @@
 
 
-package myTest;
+package utils;
 
 public class InputLeadline {
 	public int numberOfElements;
